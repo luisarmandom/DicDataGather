@@ -1,0 +1,14 @@
+{
+  "name": "dicdatagather",
+  "version": "1.0.0",
+  "description": "Scraper to gather dictionary data from WordPress API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
